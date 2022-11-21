@@ -1,0 +1,31 @@
+.all_page {
+    background-color: #272727;
+    color: #D6D6D6;
+};
+
+/* Jenny */
+.main_welcome {
+    font-family: 'Smokum';
+};
+
+/* Jenny */
+.main_parts {
+    justify-content:flex-end;
+    display: flex;
+    flex-direction: row-reverse; 
+}; 
+
+/* Alex */
+.hours_of_operation {
+    border: 3px solid #D6D6D6;
+}; 
+
+/* Will */
+.technicians {
+    border: 3px solid #D6D6D6;
+}
+
+/* Jacob */
+.specialities {
+    border: 3px solid #D6D6D6;
+}
